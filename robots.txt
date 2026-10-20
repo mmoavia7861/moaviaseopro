@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mmoavia7861.github.io/moaviaseopro/sitemap.xml
